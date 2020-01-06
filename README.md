@@ -1,4 +1,4 @@
-# BreastCancer_Classsification
+# Breast_Cancer_Classsification
 Breast Cancer Classification using Logistic Regression 
 
 
